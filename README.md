@@ -1,5 +1,5 @@
 # Hello World in Rust??
-A slight twist to the normal Hello World program we are use to create...
+This is a slight twist to the normal Hello World program we are used to creating...
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
